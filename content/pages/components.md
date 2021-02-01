@@ -9,7 +9,7 @@ section1: >-
   ## Professionalism · Experience · True Business Partnership
 
 
-  **· Scope of Service**
+  **· Practice Area**
 
 
   Our team has abundant practical experience in providing practical, strategic and cost-effective solutions to clients across China, especially in South China. The scope of our legal services covers international trade, corporate & investment (e.g. commercial contracts & outsourcing, foreign direct investment, general legal counsel services), mergers & acquisitions, labor & employment, intellectual property, compliance, and litigation & dispute resolution.  
