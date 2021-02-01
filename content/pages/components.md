@@ -21,7 +21,7 @@ section1: >-
   Our team members include lawyers qualified in the PRC, IP protection team (including patent agents) and international trade team with experience regarding cross-border e-commerce business, purchase sourcing service.  The team members have all graduated from the top universities, both domestically and overseas.
 
 
-  **· Key Features** 
+  **· Key Features**
 
 
   As a team with rich business knowledge and legal experience, we focus on a solution-centric mindset in order to achieve the business and legal needs of our clients. Our team assign appropriate members for our clients, which enables us to offer a one-stop legal service for all foreign clients. 
