@@ -1,16 +1,24 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: About Us
+featuredImage: https://ucarecdn.com/88ea3984-52fe-40b6-a1b0-88b1fd78bdf3/
+subtitle: We have extensive experience in helping multinational clients navigate
+  the complexities of China’s business and regulatory environment.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Professionalism · Experience · True Business Partnership
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Our team has abundant practical experience in providing practical, strategic and cost-effective solutions to clients across China, especially in South China. The scope of our legal services covers international trade, corporate & investment (e.g. commercial contracts & outsourcing, foreign direct investment, general legal counsel services), mergers & acquisitions, labor & employment, intellectual property, compliance, and litigation & dispute resolution.  
+
+
+  Our team members include lawyers qualified in the PRC, IP protection team (including patent agents) and international trade team with experience regarding cross-border e-commerce business, purchase sourcing service.  The team members have all graduated from the top universities, both domestically and overseas.
+
+
+  As a team with rich business knowledge and legal experience, we focus on a solution-centric mindset in order to achieve the business and legal needs of our clients. Our team assign appropriate members for our clients, which enables us to offer a one-stop legal service for all foreign clients. 
+
+
+  Our team is located in Guangzhou, the center of the Guangdong-Hong Kong-Macao Greater Bay Area.  Our service covers Shenzhen, Foshan, Dongguan, Zhuhai, Zhongshan, Huizhou, Jiangmen, Zhaoqing, Hong Kong and Macau.  We have also established close relationships with many other preeminent local law firms.  If you require legal services in other parts of China, such as Shanghai or Beijing, we will be able to assist through such relationships all around China.
 section2: >-
   ## You can use videos, images and text.
 
