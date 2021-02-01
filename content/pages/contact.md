@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: https://ucarecdn.com/96dcd79b-1464-402e-a937-30cc7798cfe2/
+featuredImage: https://ucarecdn.com/48cda8e4-ee6c-4b2f-a80e-1898f0ecc3de/
 subtitle: You can use the form below to contact us with any queries or to leave
   feedback. We will try to get back to you soon.
 address: 404 James St, Burleigh Heads QLD 4220
