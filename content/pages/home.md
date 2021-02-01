@@ -1,9 +1,10 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Legal and Wise
+featuredImage: https://ucarecdn.com/5d5f6acc-4f63-494d-b595-abfe40fa5696/
+subtitle: We focus to provide high-quality legal services for international
+  clients needing China law assistance.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
