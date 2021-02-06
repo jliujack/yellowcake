@@ -5,26 +5,17 @@ title: Legal and Wise
 featuredImage: https://ucarecdn.com/5d5f6acc-4f63-494d-b595-abfe40fa5696/
 subtitle: We focus to provide high-quality legal services for international
   clients needing China law assistance.
+accordion:
+  - title: company
+    content: china largest law server company, provide all law service you need
+  - title: about price
+    content: |-
+      100$ per hour
+      please contact us for more detail 
 meta:
   description: Legal and Wise
   title: Legal and Wise
   canonicalLink: Legal and Wise
   noindex: false
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms)
+speed and powerful
