@@ -19,6 +19,7 @@ We understand that appropriate legal services will protect our clients’ legal 
 
 We will provide a step-by-step guidance on the company establishment process. Based on our rich experience in the past, we are fully aware of clients’ concerns and will provide clients with practical advice. 
 
+
 **II. Foreign Direct Investment**
 
 * Conducting legal due diligence investigations of Chinese partners
@@ -106,6 +107,6 @@ We provide clients with high quality dispute resolution services in various comm
 * Conducting legal due diligence investigation
 * Handling legal issues during acquisition of corporate equity, assets and businesses
 * Participation in the negotiation
-* Drafting and/or reviewing legal documents, e.g. Equity Transfer Agreement, Share Purchase Agreement, Asset Acquisition Agreement
+* Drafting and/or reviewing legal documents, e.g. Equity Transfer Agreement, Share Purchase Agreement, Asset Acquisition Agreement   
 
 For many years, we have been dedicated to assisting clients in solving various legal problems that may be involved in the merger and acquisition process under the changing and complex Chinese legal environment.  Our ample experiences enable our team to be able to propose optimum and customized plan for the merger and acquisition based on the clients’ practical needs.
