@@ -73,3 +73,12 @@ We have considerable experience in preparing and reviewing the most common tradi
 As the external legal counsel of many foreign clients and foreign-invested companies, we are committed to providing top-tier general legal counsel services.
 
 We can promptly understand and respond to the needs of our clients, and provide value-added and cost-effective legal advice during the daily management and business development of our clients. We assist our clients in strengthening their internal management, implementing the compliance policies, and providing legal solutions to their concerns.
+
+**V. Labor and Employment**
+* Reviewing all kinds of rules and policies related to employment management, e.g. employment handbook
+* Drafting and reviewing labor contracts, labor dispatch agreements, non-compete agreements, and confidentiality agreements
+* Advising on employment-related issues, e.g. employment terminations, occupational injuries and illness
+* Representing clients to attend the labor dispute mediations, arbitrations and litigations
+* Providing updated policy trainings on labor laws and regulations
+
+We are able to provide comprehensive daily legal support in regard to labor and employment issues. With our assistance, many clients establish a relatively complete employment system and put themselves in the best position to meet their business goals.
