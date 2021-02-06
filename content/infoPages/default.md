@@ -82,3 +82,30 @@ We can promptly understand and respond to the needs of our clients, and provide 
 * Providing updated policy trainings on labor laws and regulations
 
 We are able to provide comprehensive daily legal support in regard to labor and employment issues. With our assistance, many clients establish a relatively complete employment system and put themselves in the best position to meet their business goals.
+
+**VI. Intellectual Property**
+* Establishment of the daily management systems of trademarks, patents and copyrights
+* Applying for registration for trademarks, patents and copyrights
+* Advising on contract issues with regard to intellectual property rights (e.g. transfers, cooperation and licensing) 
+* Assisting clients in response to allegations of infringements or taking legal actions against infringements by third parties
+
+In the process of business development and market development, companies will inevitably be involved in issues related to intellectual property, such as application for registration, management, promotion and protection.
+
+Based on our rich experience in the field of intellectual property, on the one hand, we can recommend appropriate intellectual property strategic planning and establish a comprehensive system of intellectual property protection. On the other hand, we can assist clients in taking all necessary and appropriate legal measures to avoid the infringement of clients’ intellectual property rights.
+
+**VIII. Disputes Resolution**
+* Litigation practice and arbitration practice, including applications for property preservation, initiating of lawsuit/arbitration procedures, participation in litigation/arbitration hearing, applications for enforcement
+* Recognition and enforcement of overseas arbitral awards / judgement in China
+* Serving as expert witnesses on Chinese law in international litigation/arbitration
+* Bankruptcy practice, including but not limited to commencing or participating in bankruptcy procedures, acting for clients in related litigation
+
+We provide clients with high quality dispute resolution services in various common types of disputes, including but not limited to international trade disputes, contract disputes, company-related disputes, intellectual property rights protection disputes and labor disputes.
+
+**IX. Merger and Acquisition**
+* Designing transaction structure
+* Conducting legal due diligence investigation
+* Handling legal issues during acquisition of corporate equity, assets and businesses
+* Participation in the negotiation
+* Drafting and/or reviewing legal documents, e.g. Equity Transfer Agreement, Share Purchase Agreement, Asset Acquisition Agreement
+
+For many years, we have been dedicated to assisting clients in solving various legal problems that may be involved in the merger and acquisition process under the changing and complex Chinese legal environment.  Our ample experiences enable our team to be able to propose optimum and customized plan for the merger and acquisition based on the clients’ practical needs.
