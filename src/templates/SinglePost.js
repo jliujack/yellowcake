@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
+import Valine from 'gatsby-plugin-valine'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
@@ -11,6 +12,7 @@ export const SinglePostTemplate = ({
   title,
   date,
   body,
+  slug,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -63,6 +65,8 @@ export const SinglePostTemplate = ({
             <Content source={body} />
           </div>
 
+          <Valine path={slug} />
+
           <div className="SinglePost--Pagination">
             {prevPostURL && (
               <Link
@@ -98,6 +102,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
       <SinglePostTemplate
         {...post}
         {...post.frontmatter}
+        {...post.fields}
         body={post.html}
         nextPostURL={_get(thisEdge, 'next.fields.slug')}
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
@@ -118,6 +123,9 @@ export const pageQuery = graphql`
       ...Meta
       html
       id
+      fields {
+        slug
+      }
       frontmatter {
         title
         template

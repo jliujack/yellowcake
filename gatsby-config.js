@@ -6,6 +6,15 @@ module.exports = {
     siteUrl: 'https://yellowcake.netlify.com'
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-valine`,
+      options: {
+        appId: `y7lzfwSyU7qMkt7Aoc2vQUW0-gzGzoHsz`,
+        appKey: `4fnMj2noH5VF8gVc5xSMPfm4`,
+        avatar: `robohash`,
+        enableQQ: true
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     {
