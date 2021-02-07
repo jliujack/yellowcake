@@ -94,7 +94,7 @@ In the process of business development and market development, companies will in
 
 Based on our rich experience in the field of intellectual property, on the one hand, we can recommend appropriate intellectual property strategic planning and establish a comprehensive system of intellectual property protection. On the other hand, we can assist clients in taking all necessary and appropriate legal measures to avoid the infringement of clients’ intellectual property rights.
 
-**VIII. Disputes Resolution**
+**VII. Disputes Resolution**
 * Litigation practice and arbitration practice, including applications for property preservation, initiating of lawsuit/arbitration procedures, participation in litigation/arbitration hearing, applications for enforcement
 * Recognition and enforcement of overseas arbitral awards / judgement in China
 * Serving as expert witnesses on Chinese law in international litigation/arbitration
@@ -102,7 +102,7 @@ Based on our rich experience in the field of intellectual property, on the one h
 
 We provide clients with high quality dispute resolution services in various common types of disputes, including but not limited to international trade disputes, contract disputes, company-related disputes, intellectual property rights protection disputes and labor disputes.
 
-**IX. Merger and Acquisition**
+**VIII. Merger and Acquisition**
 * Designing transaction structure
 * Conducting legal due diligence investigation
 * Handling legal issues during acquisition of corporate equity, assets and businesses
