@@ -18,7 +18,7 @@ section1: >-
   **· Founder Team**
 
 
-  Our team members include lawyers qualified in the PRC, IP protection team (including patent agents) and international trade team with experience regarding cross-border e-commerce business, purchase sourcing service.  The team members have all graduated from the top universities, both domestically and overseas.
+  Our team members include qualified PRC lawyers, IP protection team (including patent agents) and international trade team with experience regarding cross-border e-commerce business, purchase sourcing service.  The team members have all graduated from the top universities, both domestically and overseas.
 
 
   **· Key Features**
