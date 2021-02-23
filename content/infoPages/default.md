@@ -63,7 +63,8 @@ We have considerable experience in preparing and reviewing the most common tradi
 >
 > *NNN agreement (i.e. Non-Use, Non-Disclosure, and Non-Circumvention Agreement)*
 
-**IV. Daily Corporate Operation **
+
+**IV. Daily Corporate Operation**
 * Providing compliance review and external legal support for internal decisions
 * Providing legal advice on investment decisions of the company
 * Collating and analyzing the relevant legal and policy information related to the company's operation
