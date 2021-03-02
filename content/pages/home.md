@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Legal and Wise
-featuredImage: https://ucarecdn.com/5d5f6acc-4f63-494d-b595-abfe40fa5696/
+featuredImage: https://ucarecdn.com/bc1656eb-5e41-4b56-a68c-e772170db768/
 subtitle: We focus to provide high-quality legal services for international
   clients needing China law assistance.
 accordion:
@@ -13,8 +13,10 @@ accordion:
       100$ per hour
       please contact us for more detail 
 meta:
-  description: Legal and Wise
-  title: Legal and Wise
+  description: If you would like to find a Chinese Lawyer to assist you in
+    investing in China or trading with Chinese companies, our experienced team
+    is your best choice.
+  title: Chinese Lawyer
   canonicalLink: Legal and Wise
   noindex: false
 ---
