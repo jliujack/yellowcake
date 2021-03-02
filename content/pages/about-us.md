@@ -2,7 +2,7 @@
 template: AboutUsPage
 slug: about-us
 title: About Us
-featuredImage: https://ucarecdn.com/88ea3984-52fe-40b6-a1b0-88b1fd78bdf3/
+featuredImage: https://ucarecdn.com/b2f8ded5-d70e-4152-aee2-6d9fdcb69037/
 subtitle: We have extensive experience in helping multinational clients navigate
   the complexities of China’s business and regulatory environment.
 section1: >-
@@ -30,7 +30,7 @@ section1: >-
   **· Our Location** 
 
 
-  Our team is located in Guangzhou, the center of the Guangdong-Hong Kong-Macao Greater Bay Area.  Our service covers Shenzhen, Foshan, Dongguan, Zhuhai, Zhongshan, Huizhou, Jiangmen, Zhaoqing, Hong Kong and Macau.  We have also established close relationships with many other preeminent local law firms.  If you require legal services in other parts of China, such as Shanghai or Beijing, we will be able to assist through such relationships all around China.
+  Our team is located in Guangzhou, the center of the Guangdong-Hong Kong-Macao Greater Bay Area.  Our legal service covers Shenzhen, Foshan, Dongguan, Zhuhai, Zhongshan, Huizhou, Jiangmen, Zhaoqing, Hong Kong and Macau.  We have also established close relationships with many other preeminent local law firms.  If you require legal services in other parts of China, such as Shanghai or Beijing, we will be able to assist through such relationships all around China.
 section2: >-
   ## You can use videos, images and text.
 
@@ -59,6 +59,9 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
+  description: Our team is located in Guangzhou, the center of the Guangdong-Hong
+    Kong-Macao Greater Bay Area. Our legal service covers cities including but
+    not limited to Shenzhen, Foshan, Dongguan, Zhuhai, Zhongshan, Huizhou,
+    Jiangmen, Zhaoqing, Hong Kong and Macau.
   title: Components Page
 ---
