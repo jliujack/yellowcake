@@ -9,8 +9,9 @@ phone: "+86"
 email: administrator@legalandwise.com
 locations: []
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: If you have any legal questions regarding investments and
+    transactions in China, please contact us for advice.
+  title: Contact Chinese Lawyer
 ---
 Our team is happy to answer any legal questions regarding investments and transactions in China. Fill out the form and we'll get back to you as soon as possible.
 
