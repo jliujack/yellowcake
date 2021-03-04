@@ -63,5 +63,5 @@ meta:
     Kong-Macao Greater Bay Area. Our legal service covers cities including but
     not limited to Shenzhen, Foshan, Dongguan, Zhuhai, Zhongshan, Huizhou,
     Jiangmen, Zhaoqing, Hong Kong and Macau.
-  title: Components Page
+  title: Guangzhou Law Firm
 ---
