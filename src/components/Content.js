@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useMemo } from 'react'
 import ReactDOMServer from 'react-dom/server'
 import Marked from 'react-markdown'
 import PropTypes from 'prop-types'
@@ -68,28 +68,65 @@ const HtmlBlock = ({ value }) => {
 }
 
 const Content = ({ source, src, className = '' }) => {
+  const [isShowMore, setIsShowMore] = useState(false)
+  console.log('liujie log:', 'source')
   // accepts either html or markdown
   source = source || src || ''
+  let enableShowMore = false
+  if (source.split('\n').length > 50) {
+    enableShowMore = true
+  }
+
+  const showMoreDom = useMemo(() => {
+    if (!enableShowMore) {
+      return null
+    }
+
+    const text = isShowMore ? 'showLess' : 'showMore'
+    return (
+      <a
+        className="showMoreInContent"
+        onClick={() => setIsShowMore(!isShowMore)}
+      >
+        {text}
+      </a>
+    )
+  }, [isShowMore, enableShowMore])
+
+  if (enableShowMore && !isShowMore) {
+    source = source
+      .split('\n')
+      .slice(0, 49)
+      .join('\n')
+  }
+  let outPut
   if (source.match(/^</)) {
     source = withContentImages(source)
 
-    return (
+    outPut = (
       <div
         className={`Content ${className}`}
         dangerouslySetInnerHTML={{ __html: source }}
       />
     )
+  } else {
+    outPut = (
+      <Marked
+        className={`Content ${className}`}
+        source={encodeMarkdownURIs(source)}
+        renderers={{
+          image: MyImage,
+          html: HtmlBlock
+        }}
+      />
+    )
   }
 
   return (
-    <Marked
-      className={`Content ${className}`}
-      source={encodeMarkdownURIs(source)}
-      renderers={{
-        image: MyImage,
-        html: HtmlBlock
-      }}
-    />
+    <>
+      {outPut}
+      {showMoreDom}
+    </>
   )
 }
 

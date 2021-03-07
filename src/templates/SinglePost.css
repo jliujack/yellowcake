@@ -76,3 +76,12 @@
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
 }
+
+.SinglePost--Valine .vwrap .vheader input.vnick,
+.SinglePost--Valine .vwrap .vheader input.vmail {
+  width: 50% !important;
+}
+
+.SinglePost--Valine .vwrap .vheader input.vlink {
+  display: none;
+}

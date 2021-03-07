@@ -9,7 +9,7 @@ import GithubCorner from './GithubCorner'
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 
-export default ({ children, meta, title }) => {
+export default ({ children, meta, title, notNeedFooter }) => {
   return (
     <StaticQuery
       query={graphql`
@@ -73,13 +73,13 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+            {/* <GithubCorner url="https://github.com/thriveweb/yellowcake" /> */}
 
             <Nav subNav={subNav} />
 
             <Fragment>{children}</Fragment>
 
-            <Footer />
+            {!notNeedFooter && <Footer />}
           </Fragment>
         )
       }}

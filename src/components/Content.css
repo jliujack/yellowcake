@@ -6,6 +6,10 @@
   margin-bottom: 2.5rem;
 }
 
+.showMoreInContent {
+  cursor: pointer;
+}
+
 .Content--Iframe {
   position: relative;
   padding-bottom: 56.25%;

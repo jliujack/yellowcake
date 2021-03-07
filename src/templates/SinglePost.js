@@ -65,7 +65,7 @@ export const SinglePostTemplate = ({
             <Content source={body} />
           </div>
 
-          <Valine path={slug} />
+          <Valine path={slug} className="SinglePost--Valine" />
 
           <div className="SinglePost--Pagination">
             {prevPostURL && (
