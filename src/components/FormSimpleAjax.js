@@ -10,9 +10,9 @@ class Form extends React.Component {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage: 'Thank you for your message. We will get back to you soon.',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'Sorry, your message has not been sent successfully. Please try to contact us via the specified email.'
   }
 
   state = {
@@ -77,13 +77,13 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Firstname"
-                name="firstname"
+                placeholder="Name"
+                name="name"
                 required
               />
-              <span>Firstname</span>
+              <span>Name</span>
             </label>
-            <label className="Form--Label">
+            {/* <label className="Form--Label">
               <input
                 className="Form--Input Form--InputText"
                 type="text"
@@ -92,9 +92,9 @@ class Form extends React.Component {
                 required
               />
               <span>Lastname</span>
-            </label>
+            </label> */}
           </div>
-          <fieldset>
+          {/* <fieldset>
             <label className="Form--Label Form--Radio">
               <input
                 className="Form--RadioInput"
@@ -114,7 +114,7 @@ class Form extends React.Component {
               />
               <span>Female</span>
             </label>
-          </fieldset>
+          </fieldset> */}
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -125,7 +125,7 @@ class Form extends React.Component {
             />
             <span>Email address</span>
           </label>
-          <label className="Form--Label has-arrow">
+          {/* <label className="Form--Label has-arrow">
             <select
               className="Form--Input Form--Select"
               name="type"
@@ -139,7 +139,7 @@ class Form extends React.Component {
               <option>Found a bug</option>
               <option>Want to say hello</option>
             </select>
-          </label>
+          </label> */}
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
@@ -150,14 +150,14 @@ class Form extends React.Component {
             />
             <span>Message</span>
           </label>
-          <label className="Form--Label Form-Checkbox">
+          {/* <label className="Form--Label Form-Checkbox">
             <input
               className="Form--Input Form--Textarea Form--CheckboxInput"
               name="newsletter"
               type="checkbox"
             />
             <span>Get news updates</span>
-          </label>
+          </label> */}
           <div
             className="g-recaptcha"
             data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
@@ -167,7 +167,7 @@ class Form extends React.Component {
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="SEND MESSAGE"
             disabled={this.state.disabled}
           />
         </form>

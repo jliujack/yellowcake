@@ -7,7 +7,7 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: d689c8827aaca895a826
+    publicKey: bb18a4bc4fe825064746
     multiple: false
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
@@ -147,7 +147,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: hidden,
               default: AboutUsPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'about-us' }
+          - { label: Slug, name: slug, widget: hidden, default: 'about us' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }

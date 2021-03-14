@@ -19,9 +19,9 @@
   justify-content: space-between;
 }
 
-.Form--Group .Form--Label {
+/* .Form--Group .Form--Label {
   width: calc(50% - 1rem);
-}
+} */
 
 .Form--Label {
   width: 100%;

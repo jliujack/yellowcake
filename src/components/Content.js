@@ -73,7 +73,7 @@ const Content = ({ source, src, className = '' }) => {
   // accepts either html or markdown
   source = source || src || ''
   let enableShowMore = false
-  if (source.split('\n').length > 50) {
+  if (source.split('\n').length > 50000) {
     enableShowMore = true
   }
 
