@@ -1,6 +1,6 @@
 ---
 template: HomePage
-slug: ""
+slug: ''
 title: Our Legal Service,            Your Wise Choice
 featuredImage: https://ucarecdn.com/bc1656eb-5e41-4b56-a68c-e772170db768/
 subtitle: We focus to provide high-quality legal services for international
@@ -11,13 +11,16 @@ accordion:
   - title: about price
     content: |-
       100$ per hour
-      please contact us for more detail 
+      please contact us for more detail
 meta:
   description: If you would like to find a Chinese Lawyer to assist you in
     investing in China or trading with Chinese companies, our experienced team
     is your best choice.
   title: Chinese Lawyer
+  keywords: Lawyer
   canonicalLink: Legal and Wise
+
   noindex: false
 ---
+
 speed and powerful
