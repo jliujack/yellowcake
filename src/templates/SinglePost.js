@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useRef, useEffect } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
@@ -55,86 +55,111 @@ export const SinglePostTemplate = ({
   nextPostURL,
   prevPostURL,
   categories = []
-}) => (
-  <main>
-    <article
-      className="SinglePost section light"
-      itemScope
-      itemType="http://schema.org/BlogPosting"
-    >
-      <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
-        </Link>
-        <div className="SinglePost--Content relative">
-          <div className="SinglePost--Meta">
-            {date && (
-              <time
-                className="SinglePost--Meta--Date"
-                itemProp="dateCreated pubdate datePublished"
-                date={date}
-              >
-                {date}
-              </time>
-            )}
-            {categories && (
-              <Fragment>
-                <span>|</span>
-                {categories.map((cat, index) => (
-                  <span
-                    key={cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {cat.category}
-                    {/* Add a comma on all but last category */}
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
-                ))}
-              </Fragment>
-            )}
-          </div>
+}) => {
+  const valineRef = useRef()
 
-          {title && (
-            <h1 className="SinglePost--Title" itemProp="title">
-              {title}
-            </h1>
-          )}
+  useEffect(() => {
+    if (valineRef.current) {
+      const v = document.querySelector('.SinglePost--Valine')
+      let timer
+      const setName = () => {
+        const nick = v.querySelector('.vnick')
+        const mail = v.querySelector('.vmail')
+        if (nick) {
+          nick.setAttribute('placeholder', 'Name')
+          mail.setAttribute('placeholder', 'Email')
+        } else {
+          timer = setTimeout(setName, 300)
+        }
+      }
+      if (v) {
+        timer = setTimeout(setName, 300)
+      }
+    }
+  }, [valineRef.current])
 
-          <div className="SinglePost--InnerContent">
-            <Content source={body} />
-          </div>
+  return (
+    <main>
+      <article
+        className="SinglePost section light"
+        itemScope
+        itemType="http://schema.org/BlogPosting"
+      >
+        <div className="container skinny">
+          <Link className="SinglePost--BackButton" to="/blog/">
+            <ChevronLeft /> BACK
+          </Link>
+          <div className="SinglePost--Content relative">
+            <div className="SinglePost--Meta">
+              {date && (
+                <time
+                  className="SinglePost--Meta--Date"
+                  itemProp="dateCreated pubdate datePublished"
+                  date={date}
+                >
+                  {date}
+                </time>
+              )}
+              {categories && (
+                <Fragment>
+                  <span>|</span>
+                  {categories.map((cat, index) => (
+                    <span
+                      key={cat.category}
+                      className="SinglePost--Meta--Category"
+                    >
+                      {cat.category}
+                      {/* Add a comma on all but last category */}
+                      {index !== categories.length - 1 ? ',' : ''}
+                    </span>
+                  ))}
+                </Fragment>
+              )}
+            </div>
 
-          <Valine
-            path={slug}
-            className="SinglePost--Valine"
-            placeholder="Feel free to leave a comment."
-            lang="en"
-            langMode={langMode}
-          />
-
-          <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                Previous Post
-              </Link>
+            {title && (
+              <h1 className="SinglePost--Title" itemProp="title">
+                {title}
+              </h1>
             )}
-            {nextPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link next"
-                to={nextPostURL}
-              >
-                Next Post
-              </Link>
-            )}
+
+            <div className="SinglePost--InnerContent">
+              <Content source={body} />
+            </div>
+
+            <Valine
+              path={slug}
+              className="SinglePost--Valine"
+              placeholder="Feel free to leave a comment."
+              lang="en"
+              langMode={langMode}
+              ref={valineRef}
+            />
+
+            <div className="SinglePost--Pagination">
+              {prevPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link prev"
+                  to={prevPostURL}
+                >
+                  Previous Post
+                </Link>
+              )}
+              {nextPostURL && (
+                <Link
+                  className="SinglePost--Pagination--Link next"
+                  to={nextPostURL}
+                >
+                  Next Post
+                </Link>
+              )}
+            </div>
           </div>
         </div>
-      </div>
-    </article>
-  </main>
-)
+      </article>
+    </main>
+  )
+}
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {
