@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Our Legal Service,            Your Wise Choice
+title: Our Legal Service /n Your Wise Choice
 featuredImage: https://ucarecdn.com/bc1656eb-5e41-4b56-a68c-e772170db768/
 subtitle: We focus to provide high-quality legal services for international
   clients needing China law assistance.

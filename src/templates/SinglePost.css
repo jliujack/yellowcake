@@ -85,3 +85,7 @@
 .SinglePost--Valine .vwrap .vheader input.vlink {
   display: none;
 }
+
+.vpower {
+  display: none;
+}

@@ -11,7 +11,8 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © {new Date().getFullYear()} Legal and Wise - All RIghts Reserved.
+          © {new Date().getFullYear()} www.legalandwise.com - All Rights
+          Reserved.
           {/* <a href="">jack</a>. */}
         </span>
       </div>

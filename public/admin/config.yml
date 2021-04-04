@@ -228,6 +228,12 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Title, name: title, widget: string, required: false }
               - {
+                  label: Key Words,
+                  name: keywords,
+                  widget: text,
+                  required: false,
+                }
+              - {
                   label: Description,
                   name: description,
                   widget: text,
