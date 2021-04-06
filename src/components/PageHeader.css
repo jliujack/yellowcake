@@ -37,4 +37,11 @@
   .PageHeader-large {
     padding: 12.5rem 0;
   }
+  .PageHeader--Title {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  .PageHeader--Title:nth-child(2) {
+    padding-left: 3rem;
+  }
 }
