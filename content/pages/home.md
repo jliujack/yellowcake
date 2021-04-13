@@ -1,6 +1,6 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Our Legal Service /n Your Wise Choice
 featuredImage: https://ucarecdn.com/bc1656eb-5e41-4b56-a68c-e772170db768/
 subtitle: We focus to provide high-quality legal services for international
@@ -13,13 +13,15 @@ accordion:
       100$ per hour
       please contact us for more detail
 meta:
-  description: If you would like to find a Chinese Lawyer to assist you in
-    investing in China or trading with Chinese companies, our experienced team
-    is your best choice.
-  title: Chinese Lawyer
-  keywords: Lawyer
+  description: Welcome to legalandwise - Chinese Lawyer in Law Firm Guangzhou.Our
+    professional Chinese law firm focuses to provide high-quality legal services
+    to foreign business owners and WFOE in China. We have extensive experience
+    in helping multinational clients navigate the complexities of China legal
+    system.  We provide effective solutions for foreign legal services in China
+    with reasonable and affordable fee.
+  title: Lawyer in china,Business lawyer about WFOE in China
+  keywords: lawyer in china,China Business Lawyers,WFOE
   canonicalLink: Legal and Wise
-
   noindex: false
 ---
 
