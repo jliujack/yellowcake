@@ -3,8 +3,11 @@ template: HomePage
 slug: ""
 title: Our Legal Service /n Your Wise Choice
 featuredImage: https://ucarecdn.com/bc1656eb-5e41-4b56-a68c-e772170db768/
-subtitle: We focus to provide high-quality legal services for international
-  clients needing China law assistance.
+subtitle: >-
+  # lawyer In China
+
+
+  We focuses to provide high-quality legal services to foreign business owners and WFOE in China. We have extensive experience in helping multinational clients navigate the complexities of China legal system.  We provide effective solutions for foreign legal services in China with reasonable and affordable fee.
 accordion:
   - title: company
     content: china largest law server company, provide all law service you need
