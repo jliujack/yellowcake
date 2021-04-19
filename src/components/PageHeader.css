@@ -17,8 +17,8 @@
   margin-bottom: 0;
 }
 
-.PageHeader--Title:nth-child(2) {
-  padding-left: 31rem;
+.PageHeader--Title2 {
+  font-size: 3.8rem;
 }
 
 .PageHeader--Subtitle {
@@ -41,7 +41,7 @@
     font-size: 3rem;
     margin-bottom: 0;
   }
-  .PageHeader--Title:nth-child(2) {
-    padding-left: 3rem;
+  .PageHeader--Title2 {
+    font-size: 2rem;
   }
 }

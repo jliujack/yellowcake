@@ -7,12 +7,12 @@ import './PageHeader.css'
 
 const PageHeader = ({
   title,
+  title2 = '',
   subtitle,
   backgroundImage,
   large,
   className = ''
 }) => {
-  const titles = title.split('/n')
   if (large) className += ' PageHeader-large'
   return (
     <div className={`PageHeader relative ${className}`}>
@@ -27,9 +27,8 @@ const PageHeader = ({
       )}
       <div className="container relative">
         <div>
-          {titles.map(t => (
-            <h1 className="PageHeader--Title">{t}</h1>
-          ))}
+          <h1 className="PageHeader--Title">{title}</h1>
+          <h1 className="PageHeader--Title2">{title2}</h1>
         </div>
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
@@ -41,6 +40,7 @@ const PageHeader = ({
 
 PageHeader.propTypes = {
   title: PropTypes.string,
+  title2: PropTypes.string,
   subtitle: PropTypes.string
 }
 
