@@ -16,10 +16,6 @@ meta:
   noindex: false
   title: test meta title
 ---
-
-
-![](https://ucarecdn.com/3b8e845c-b001-4220-9113-c7f2ea263bbb/ "layer")
-
 A procurement contract (also known as sales contract / purchase agreement) is a contract whereby the seller (the supplier) sells the products and/or service to the buyer and the buyer in return usually pays the price. Procurement contract is one of the most commonly used contracts in international transactions.
 
 Nowadays, many foreigners or foreign companies might have business with Chinese suppliers, especially for the procurement of the medical products during the COVID-19 outbreak.  Based on our team’s experience, here are some important tips for concluding a successful procurement contract with a Chinese supplier for your reference.
