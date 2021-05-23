@@ -2,6 +2,19 @@
   background: var(--lightGrey);
 }
 
+.SinglePost p {
+  margin-bottom: 1.5rem;
+}
+
+.SinglePost h1,
+.SinglePost h2,
+.SinglePost h3,
+.SinglePost h4,
+.SinglePost h5 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
 .SinglePost--BackButton {
   color: white;
   position: relative;
@@ -26,6 +39,9 @@
 .SinglePost--Content {
   background: white;
   padding: 8rem 8rem 4rem 8rem;
+  text-justify: inter-ideograph;
+  --webket-text-justify: inter-ideograph;
+  text-align: justify;
 }
 
 @media screen and (max-width: 750px) {
@@ -36,7 +52,7 @@
 
 .SinglePost--Meta {
   font-size: 1rem;
-  margin: 0 0 2rem 0;
+  margin: 0 0 3rem 0;
   text-align: center;
 }
 
@@ -47,6 +63,9 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
+  padding: 0 8rem;
+  margin-top: 1rem !important;
+  margin-bottom: 3rem !important;
 }
 
 .SinglePost--InnerContent {
