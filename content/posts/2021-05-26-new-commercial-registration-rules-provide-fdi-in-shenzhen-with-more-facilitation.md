@@ -25,7 +25,7 @@ Comparison between the Previous Rules and the Revised Rules are as follows:
 
 ![Invest in Shenzhen](https://ucarecdn.com/41c60950-78d7-4ac3-920a-9f7b0e4364c3/ "Information for Filling Administration")
 
-![Lawyer in China](https://ucarecdn.com/820f3df4-812f-493f-81c5-2f88d3b7fb85/ "Required Documents for Commercial Entity Establishment")
+![Lawyer in China](https://ucarecdn.com/5e2d9734-f289-4f58-b18c-7bfebe2a7545/ "Required Documents for Commercial Entity Establishment")
 
 **Allowing Hong Kong and Macao Investors to Operate Cross-border Business**
 
@@ -47,14 +47,10 @@ The Revised Rules enshrine the above measures in its provisions. At this legisla
 
 However, in this revision, it does not specify the identification standard of "not engaging in business activities" for dormant commercial entities. It should be noted that there is no rules or regulations regarding the period of dormancy in the field of taxation, social security and other administrative management in China at the present. In practice, many practical problems may be encountered, such as:
 
-
-
 > 1. Are commercial entities still required to pay taxes during the dormant period?
->
->
+<br/>
 > 2. Do commercial entities have to pay the salaries of their employees during the dormant period?
->
->
+<br/>
 > 3. Do commercial entities still need to pay social security for their employees during the dormant period?
 
 It is clear that it requires further study and development of relevant rules or regulations by taxation, social security departments and other administrative management in China.
