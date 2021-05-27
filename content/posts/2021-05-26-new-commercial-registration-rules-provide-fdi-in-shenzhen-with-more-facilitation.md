@@ -35,7 +35,7 @@ Now, in order to promote the development of regional integration in the Greater 
 
 Many foreign investors used to set up companies in Hong Kong first, and later set up their Chinese subsidiaries through their Hong Kong companies to further carry out business activities in mainland China. The Revised Rules will save a lot of time and cost for foreign investors who have set up companies in Hong Kong but also would like to directly carry out business in Shenzhen. In this case, foreign investors can decide whether it is still necessary to set up a new entity in Shenzhen.
 
-However, the Revised Rules do not specify the details about how Hong Kong and Macao investors directly obtain business licenses at the current moment. The specific details shall be worked out separately by the Shenzhen government. 
+However, the Revised Rules currently do not specify the details about how investors from Hong Kong and Macao can directly obtain business licenses. The specific details shall be worked out separately by the Shenzhen government. 
 
 **Implementing a Temporary Closure Registration System**
 
@@ -48,11 +48,7 @@ The Revised Rules enshrine the above measures in its provisions. At this legisla
 However, in this revision, it does not specify the identification standard of "not engaging in business activities" for dormant commercial entities. It should be noted that there is no rules or regulations regarding the period of dormancy in the field of taxation, social security and other administrative management in China at the present. In practice, many practical problems may be encountered, such as:
 
 > 1. Are commercial entities still required to pay taxes during the dormant period?  
->
->
 > 2. Do commercial entities have to pay the salaries of their employees during the dormant period?  
->
->
 > 3. Do commercial entities still need to pay social security for their employees during the dormant period?
 
 It is clear that it requires further study and development of relevant rules or regulations by taxation, social security departments and other administrative management in China.
