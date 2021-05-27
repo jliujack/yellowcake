@@ -8,6 +8,11 @@ featuredImage: https://ucarecdn.com/6f324d9d-9e87-4fa5-aadc-5e151a550e0a/
 excerpt: Recently, Shenzhen Administration of Market Regulation (“SAMR”) issued
   the Revised Rules of Shenzhen Special Economic Zone on Commercial Registration
   (the “Revised Rules”) which provide  FDI in Shenzhen with more facilitation.
+meta:
+  title: New Commercial Registration Rules Provide FDI in Shenzhen With More
+    Facilitation
+  description: "If foreign investors would like to invest in Shenzhen, they should
+    pay attention to the new commercial registration rules. "
 ---
 Recently, Shenzhen Administration of Market Regulation (“SAMR”) issued the *Revised Rules of Shenzhen Special Economic Zone on Commercial Registration* (the “Revised Rules”) which was implemented on March 1, 2021.
 
