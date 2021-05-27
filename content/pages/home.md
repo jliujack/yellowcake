@@ -23,8 +23,8 @@ meta:
     experience in helping multinational clients navigate the complexities of
     China legal system. We provide effective solutions for foreign legal
     services in China with reasonable and affordable fee.
-  title: Lawyer in china,Business lawyer about WFOE in China
-  keywords: lawyer in china,China Business Lawyers,WFOE
+  title: Lawyer in China,Business lawyer about WFOE in China
+  keywords: Lawyer in China,China Business Lawyers,WFOE
   canonicalLink: Legal and Wise
   noindex: false
 ---
