@@ -47,8 +47,12 @@ The Revised Rules enshrine the above measures in its provisions. At this legisla
 
 However, in this revision, it does not specify the identification standard of "not engaging in business activities" for dormant commercial entities. It should be noted that there is no rules or regulations regarding the period of dormancy in the field of taxation, social security and other administrative management in China at the present. In practice, many practical problems may be encountered, such as:
 
-> 1. Are commercial entities still required to pay taxes during the dormant period?  
+> 1. Are commercial entities still required to pay taxes during the dormant period? 
+>
+>    &nbsp;
 > 2. Do commercial entities have to pay the salaries of their employees during the dormant period?  
+>
+>    &nbsp;
 > 3. Do commercial entities still need to pay social security for their employees during the dormant period?
 
 It is clear that it requires further study and development of relevant rules or regulations by taxation, social security departments and other administrative management in China.
