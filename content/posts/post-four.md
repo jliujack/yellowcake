@@ -12,9 +12,10 @@ categories:
   - category: News
 meta:
   canonicalLink: ""
-  description: test meta description
+  description: This article introduces some important tips for concluding a
+    successful procurement contract with a Chinese supplier.
   noindex: false
-  title: test meta title
+  title: How to Conclude a Successful Procurement Contract with a Chinese Supplier？
 ---
 A procurement contract (also known as sales contract / purchase agreement) is a contract whereby the seller (the supplier) sells the products and/or service to the buyer and the buyer in return usually pays the price. Procurement contract is one of the most commonly used contracts in international transactions.
 
