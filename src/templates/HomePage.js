@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import HomeFooter from '../components/HomeFooter'
+import HomePost from '../components/HomePost/HomePost'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({
@@ -12,7 +13,8 @@ export const HomePageTemplate = ({
   title2,
   subtitle,
   featuredImage,
-  body
+  body,
+  posts = []
 }) => (
   <main className="Home">
     <PageHeader
@@ -22,6 +24,7 @@ export const HomePageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+    <HomePost posts={posts} />
     <HomeFooter />
     {/* <section className="section">
       <div className="container">
@@ -32,9 +35,18 @@ export const HomePageTemplate = ({
 )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => (
+const HomePage = ({ data: { page, posts } }) => (
   <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <HomePageTemplate
+      {...page}
+      {...page.frontmatter}
+      body={page.html}
+      posts={posts.edges.map(post => ({
+        ...post.node,
+        ...post.node.frontmatter,
+        ...post.node.fields
+      }))}
+    />
   </Layout>
 )
 
@@ -54,6 +66,28 @@ export const pageQuery = graphql`
         title2
         subtitle
         featuredImage
+      }
+    }
+
+    posts: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posts" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+            categories {
+              category
+            }
+            featuredImage
+          }
+        }
       }
     }
   }

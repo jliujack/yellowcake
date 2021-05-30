@@ -1,0 +1,34 @@
+.Home-Post {
+  display: flex;
+  flex-direction: column;
+  padding-top: 2rem;
+}
+
+.PostItem {
+  display: flex;
+  align-items: center;
+  height: 10rem;
+  background: #fff;
+  padding: 0 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  transition: all 0.05s;
+  border: 2px solid #d0d0d0;
+  text-decoration: none;
+}
+
+.PostItem:hover {
+  background-color: #ac9455;
+  border-color: #ac9455;
+  color: #fff;
+}
+
+.PostItem--Date {
+  flex: 0 0 12rem;
+}
+
+.PostItem--Content {
+  flex: 1;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
