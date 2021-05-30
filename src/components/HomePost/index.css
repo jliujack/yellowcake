@@ -7,7 +7,7 @@
 .PostItem {
   display: flex;
   align-items: center;
-  height: 10rem;
+  min-height: 10rem;
   background: #fff;
   padding: 0 2rem;
   margin-bottom: 2rem;
@@ -15,6 +15,7 @@
   transition: all 0.05s;
   border: 2px solid #d0d0d0;
   text-decoration: none;
+  color: #000;
 }
 
 .PostItem:hover {
