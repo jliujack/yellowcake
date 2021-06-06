@@ -1,5 +1,5 @@
 .home-footer {
-  background-color: #ffffff;
+  background: var(--lightGrey);
 }
 
 .home-flex-container {

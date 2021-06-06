@@ -1,7 +1,17 @@
+.Home-post-title {
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  color: #444;
+  line-height: 4rem;
+  padding-top: 4rem;
+}
+
 .Home-Post {
   display: flex;
   flex-direction: column;
   padding-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 .PostItem {
@@ -18,6 +28,21 @@
   color: #000;
 }
 
+.PostItem-all {
+  border: 2px solid #ac9455;
+  border-radius: 4rem;
+  color: #ac9455;
+  text-align: center;
+  padding: 0 1rem;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+.PostItem-all:hover {
+  background: #ac9455;
+  color: #fff;
+}
+
 .PostItem:hover {
   background-color: #ac9455;
   border-color: #ac9455;
@@ -32,4 +57,5 @@
   flex: 1;
   font-size: 2rem;
   margin-bottom: 0;
+  font-weight: normal;
 }

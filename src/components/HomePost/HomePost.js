@@ -10,10 +10,16 @@ export default ({ posts }) => {
   }
 
   return (
-    <div className="container Home-Post">
-      {posts.map((post, index) => (
-        <PostItem key={post.title + index} {...post} />
-      ))}
-    </div>
+    <>
+      <div className="container Home-post-title">LEGAL UPDATE</div>
+      <div className="container Home-Post">
+        {posts.map((post, index) => (
+          <PostItem key={post.title + index} {...post} />
+        ))}
+        <Link to="blog/" className="PostItem-all">
+          VIEW ALL
+        </Link>
+      </div>
+    </>
   )
 }
