@@ -59,3 +59,12 @@
   margin-bottom: 0;
   font-weight: normal;
 }
+
+@media (max-width: 767px) {
+  .Home-post-title {
+    font-size: 2rem;
+  }
+  .PostItem--Content {
+    font-size: 1rem;
+  }
+}
