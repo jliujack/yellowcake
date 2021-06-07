@@ -98,9 +98,9 @@ Based on our previous practical experience in sending lawyer letters, in order t
 
 3\. We usually use the state-owned courier company EMS to mail the lawyer’s letter. It is advisable to take screenshots of delivery records via the EMS official website and scan the courier waybill for records.  
 
-<center>![How to fill the information in the courier waybill?](https://ucarecdn.com/4bbbea2c-90a4-4a35-b46e-f80c1b0b8a35/ "EMS Waybill")</center>
+![How to fill the information in the courier waybill?](https://ucarecdn.com/4bbbea2c-90a4-4a35-b46e-f80c1b0b8a35/ "EMS Waybill")
 
-<center>(Sample of EMS Waybill)</center>
+(Sample of EMS Waybill)
 
 **VII. How much does a lawyer letter cost？**
 
