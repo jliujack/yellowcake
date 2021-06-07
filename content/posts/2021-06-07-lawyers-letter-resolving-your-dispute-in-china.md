@@ -5,7 +5,12 @@ status: Published
 date: 2021-06-07
 featuredImage: https://ucarecdn.com/ad21f87e-948b-4235-b448-1674b818ff16/
 excerpt: Lawyer's letters are becoming more and more common in foreign related
-  legal issues.
+  legal issues.  Engaging a lawyer to send a lawyer's letter might be a
+  preliminary resolution of the potential dispute.
+meta:
+  title: "Lawyer's Letter: Resolving Your Dispute in China"
+  description: "This article has addressed most of the common questions related to
+    lawyers' letters ( also known as letters of demand, LOD). "
 ---
 **Introduction**
 
