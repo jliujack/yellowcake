@@ -11,6 +11,7 @@ meta:
   title: "Lawyer's Letter: Resolving Your Dispute in China"
   description: "This article has addressed most of the common questions related to
     lawyers' letters ( also known as letters of demand, LOD). "
+  canonicalLink: https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/
 ---
 # **Lawyer's letters** **Introduction**
 
