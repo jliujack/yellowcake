@@ -60,6 +60,11 @@ export default class Meta extends Component {
         <meta property="og:image" content={absoluteImageUrl} />
         <meta name="twitter:card" content={absoluteImageUrl} />
 
+        <meta
+          name="google-site-verification"
+          content="3sFOKfe3mbGHS3ZathV0O48iNP3-bNiUMkZKDRE22Rk"
+        />
+
         {googleTrackingId && (
           <script
             async
