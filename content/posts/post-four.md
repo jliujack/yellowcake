@@ -43,6 +43,8 @@ Some foreign buyers may feel that it is to their advantages to have the procurem
 
 We have been consulted on a number of similar cases. Since many foreign buyers did not engage lawyers in China to review contracts (including the terms of jurisdiction) when signing the contracts. Without the suitable jurisdiction term, it is difficult for foreign buyers to take active measures in time, and finally they can only be settled passively through negotiation. We would also like to share a specific article in the future to elaborate on the reasons for this. In short, it is highly recommended that foreign buyers specify Chinese law and Chinese courts govern their procurement contracts with Chinese suppliers. 
 
-A successful procurement contract is a legally binding document that can effectively protect foreign buyer’s right in the relevant international transaction with Chinese supplier. Since different companies might have their own concerns towards the details of procurement contracts. It is advisable to engage a professional lawyer in China to draft or review the procurement contract before the execution. 
+A successful procurement contract is a legally binding document that can effectively protect foreign buyer’s right in the relevant international transaction with Chinese supplier. Since different companies might have their own concerns towards the details of procurement contracts. It is advisable to engage a professional ***[lawyer in China](https://www.legalandwise.com/)*** to draft or review the procurement contract before the execution. 
+
+More：[Lawyer's Letter: Resolving Your Dispute in China](https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/)
 
 *Please feel free to contact us via administrator@legalandwise.com, we will try our best to help you avoid the unnecessary procurement risks in advance.*
