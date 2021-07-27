@@ -53,11 +53,7 @@ The Revised Rules enshrine the above measures in its provisions. At this legisla
 However, in this revision, it does not specify the identification standard of "not engaging in business activities" for dormant commercial entities. It should be noted that there is no rules or regulations regarding the period of dormancy in the field of taxation, social security and other administrative management in China at the present. In practice, many practical problems may be encountered, such as:
 
 > 1. Are commercial entities still required to pay taxes during the dormant period?  
->
->
 > 2. Do commercial entities have to pay the salaries of their employees during the dormant period?  
->
->
 > 3. Do commercial entities still need to pay social security for their employees during the dormant period?
 
 It is clear that it requires further study and development of relevant rules or regulations by taxation, social security departments and other administrative management in China.
@@ -81,3 +77,5 @@ Shenzhen has a strategic position in the development of the Greater Bay Area and
 In the meanwhile, as some provisions will need to be clarified through supplementary measures before they can be implemented, it is suggested that commercial entities with investment needs in Shenzhen pay attention to further legislative developments.
 
 *If you have any legal questions regarding investment or company establishment in Shenzhen, please feel free to contact us via administrator@legalandwise.com.*
+
+*TAG: **[WFOE](https://www.legalandwise.com/)***  **\|  *[Lawyer's Letter](https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/) | [China Business Lawyers](https://www.legalandwise.com/)***
