@@ -28,7 +28,7 @@ In order to confirm whether or not you are dealing with a reliable partner, you 
 
 ![How to investigate the corporate credit information of your Chinese partner](https://ucarecdn.com/bdf10a09-4382-4829-b914-f5cea28055b1/ "National Enterprise Credit Information Publicity System")
 
-If you have Chinese friends, you can ask your friend to help you check the information of the Chinese partner. Or you may engage a lawyer in China to conduct the due diligence for you, especially for deals with a large amount of money. This will guarantee that you are dealing with a legitimate company instead of a scammer. In addition, without the correct registered information of the Chinese company name, it will increase the difficulty to file lawsuit against your Chinese partner to recover the money (if necessary).
+If you have Chinese friends, you can ask your friend to help you check the information of the Chinese partner. Or you may engage a **[lawyer in China](https://www.legalandwise.com/)** to conduct the due diligence for you, especially for deals with a large amount of money. This will guarantee that you are dealing with a legitimate company instead of a scammer. In addition, without the correct registered information of the Chinese company name, it will increase the difficulty to file lawsuit against your Chinese partner to recover the money (if necessary).
 
 **2.Signing a written contract with your Chinese counter party**
 
@@ -61,7 +61,7 @@ If you notice that evidences are not sufficient for your claims, it is necessary
 
 **III. Lawyer’s letter: a way to collect the debt at a reasonable cost**  
 
-A lawyer's letter, also known as a letter of demand (“LOD”), is a professional legal document prepared and sent by a lawyer on behalf of a client. Generally, a lawyer’s letter in debt collection is made by the lawyer on behalf of the client, which informs the recipient that its payment is overdue and should be made to the client. 
+A lawyer's letter, also known as a letter of demand (“LOD”), is a professional legal document prepared and sent by a lawyer on behalf of a client. Generally, a *[lawyer’s letter](https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/)* in debt collection is made by the lawyer on behalf of the client, which informs the recipient that its payment is overdue and should be made to the client. 
 
 Since the litigation procedure can be costly and time consuming, it might be a good option to send a lawyer’s letter to the other party, especially for the deal with a small amount of money. Please however noted that the drawback of lawyer’s letter is the recipient might be aware of the upcoming claim. Therefore, you might consider whether to send the lawyer’s letter depending on the circumstances of your case.   
 
@@ -88,3 +88,5 @@ After you obtain the effective judgement in your favor and the other party fails
 Please kindly note that if you have reached an agreement on the arbitration with the other party, then you will need to file an application for arbitration (instead of the litigation) with the agreed arbitration commission. We are not going to further discuss this in the details.  
 
 *This article provides general information for reference only and does not claim to be provide legal advice. If you need any assistance with the debt collection, please feel free to contact us via administrator@legalandwise.com.*
+
+<<< Last Article ：[Lawyer's Letter: Resolving Your Dispute in China](https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/)
