@@ -24,9 +24,9 @@ Before we start to introduce ways to collect debt from China, we would like to i
 
 Before doing business in China, it is important to check the registered information and qualification of the counter party. You cannot judge your potential partners only by their introductions, website, business card, even this potential partner might also be introduced by your broker.
 
-In order to confirm whether or not you are dealing with a reliable partner, you need to require your Chinese partner to provide you with the scanned copy of its business license or its company name in Chinese. You can check the information of the company through the government database “National Enterprise Credit Information Publicity System” (国家企业信用信息公示系统). There are also a lot of APPs, such as Qichacha (企查查), Qixinbao (启信宝), through which you can investigate corporate credit information.
+In order to confirm whether or not you are dealing with a reliable partner, you need to require your Chinese partner to provide you with the scanned copy of its business license or its company name in Chinese. You can check the information of the company through the government database “National Enterprise Credit Information Publicity System” (国家企业信用信息公示系统). There are also a lot of APPs, such as Qichacha (企查查), Qixinbao (启信宝), through which you can investigate the corporate credit information.
 
-![](https://ucarecdn.com/bdf10a09-4382-4829-b914-f5cea28055b1/)
+![How to investigate the corporate credit information of your Chinese partner](https://ucarecdn.com/bdf10a09-4382-4829-b914-f5cea28055b1/ "National Enterprise Credit Information Publicity System")
 
 If you have Chinese friends, you can ask your friend to help you check the information of the Chinese partner. Or you may engage a lawyer in China to conduct the due diligence for you, especially for deals with a large amount of money. This will guarantee that you are dealing with a legitimate company instead of a scammer. In addition, without the correct registered information of the Chinese company name, it will increase the difficulty to file lawsuit against your Chinese partner to recover the money (if necessary).
 
@@ -35,13 +35,11 @@ If you have Chinese friends, you can ask your friend to help you check the infor
 Compared with sending a few emails or several WhatsApp messages, signing a written contract includes the following advantages:
 
 1. a written contract can specify the details of the content mutually agreed by both parties. It clearly sets forth the rights and obligations of both sides; 
-
-
 2. once a dispute occurs and needs to be resolved in the later litigation or arbitration proceeding, it is more convenient for the judge or the arbitrator to check which party should be liable through a written contract. Such a written document will serve the role as legal proof.
 
 According to Article 470 of *Civil Code of the People's Republic of China*, the content of a contract shall be agreed upon by the parties and generally contains the following clauses:
 
-![](https://ucarecdn.com/f7af49ab-4a3b-45eb-bf7b-d69905b8e8f8/)
+![Important clauses in the contract in Chinese](https://ucarecdn.com/f7af49ab-4a3b-45eb-bf7b-d69905b8e8f8/ "Main Clauses in the Contract in China")
 
 Based on the Article 470 of *Civil Code of the People's Republic of China*, we would like to further address the details on how to prepare an enforceable written contract.  
 
@@ -75,7 +73,7 @@ If the other party does not respond to lawyer's letter, or if no agreement can b
 
 One general feature of the Chinese system is the “four levels” court system. Almost every city has primary people’s courts and intermediate people’s courts. Please note that there are some special courts regarding special disputes, such as maritime, IP. Some of the special courts are equal to intermediate people’s courts, while some are equal to primary people’s courts. Generally, supervising primary courts, intermediate courts and some special courts are the provincial high people’s courts. The Supreme People's Court is the highest supervising organ over all courts in China. Most of the first instance of civil cases are filed in primary courts or intermediate courts.  
 
-![](https://ucarecdn.com/3f270f33-6f34-418f-9f02-0dbdbf790c51/)
+![File a lawsuit in a competent court in China](https://ucarecdn.com/3f270f33-6f34-418f-9f02-0dbdbf790c51/ "Structure of the Chinese Court System")
 
 The graphic above illustrates the general structure of the Chinese court system. Please kindly note that the jurisdiction can be complex in the specific case and be changed from time to time due to the notice issue by the related High People’s Court or Supreme People’s Court. 
 
