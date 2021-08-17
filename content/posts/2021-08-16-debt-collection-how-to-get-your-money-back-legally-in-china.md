@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "Debt Collection: How to get your money back legally in China? "
+title: "Debt Collection: How to Get Your Money Back Legally in China? "
 status: Published
 date: 2021-08-16
 featuredImage: https://ucarecdn.com/9b68cce6-2717-40a2-aeaf-cdd1634d910c/
@@ -10,17 +10,17 @@ excerpt: When doing business in China, you may have the need to collect debt in
 ---
 When doing business with a Chinese counter party, you may encounter the following situations:
 
-\- You have shipped goods to your Chinese purchaser, however, your Chinese purchaser refused to pay the final payment?
+*\- You have shipped goods to your Chinese purchaser, however, your Chinese purchaser refused to pay the final payment.*
 
-\- You have placed an order with your Chinese supplier, however, your Chinese supplier refused to deliver the goods after the receipt of the first payment? Under such situation, you just want to get the first payment back from your Chinese supplier?
+*\- You have placed an order with your Chinese supplier, however, your Chinese supplier refused to deliver the goods after the receipt of the first payment. Under such situation, you just want to get the first payment back from your Chinese supplier.*
 
-You have placed an order with your Chinese supplier, however, your Chinese supplier refused to deliver the goods after the receipt of the first payment? Under such situation, you just want to get the first payment back from your Chinese supplier?
+As you can see, debt collection is common in the international trade. Debt collection generally refers to collecting the payment from the counter party according to the laws and/or agreements. You might be worried about being outside of China, how you can collect the money owed to you in China. Well, we would like to briefly address your concerns in this article.
 
 **I. Prevention**
 
-Before we start to introduce the ways to collect the debts from China, we would like to introduce some prevention measures to protect your business in China. Moreover, these measures will help you collect the debts (if any) from China later. 
+Before we start to introduce ways to collect debt from China, we would like to introduce some prevention measures to protect your business in China. Moreover, these measures will help you collect debts (if any) from China later. 
 
-1.Due diligence on your Chinese partner before the deal 
+**1.Due diligence on your Chinese partner before the deal** 
 
 Before doing business in China, it is important to check the registered information and qualification of the counter party. You cannot judge your potential partners only by their introductions, website, business card, even this potential partner might also be introduced by your broker.
 
@@ -30,19 +30,20 @@ In order to confirm whether or not you are dealing with a reliable partner, you 
 
 If you have Chinese friends, you can ask your friend to help you check the information of the Chinese partner. Or you may engage a lawyer in China to conduct the due diligence for you, especially for deals with a large amount of money. This will guarantee that you are dealing with a legitimate company instead of a scammer. In addition, without the correct registered information of the Chinese company name, it will increase the difficulty to file lawsuit against your Chinese partner to recover the money (if necessary).
 
-2.Signing a written contract with your Chinese party
+**2.Signing a written contract with your Chinese counter party**
 
-Compared with sending a few emails or several WhatsApp messages, signing a written contract included the following advantages:
+Compared with sending a few emails or several WhatsApp messages, signing a written contract includes the following advantages:
 
-1) a written contract can specify the details of the content mutually agreed by both parties. It clearly sets forth the rights and obligations of both sides; 
+1. a written contract can specify the details of the content mutually agreed by both parties. It clearly sets forth the rights and obligations of both sides; 
 
-2) once a dispute occurs and needs to be resolved in the later litigation or arbitration proceeding, it is more convenient for the judge or the arbitrator to check which party should be liable through a written contract. Such a written document will serve the role as legal proof.
 
-According to Article 470 of Civil Code of the People's Republic of China, the content of a contract shall be agreed upon by the parties and generally contains the following clauses:
+2. once a dispute occurs and needs to be resolved in the later litigation or arbitration proceeding, it is more convenient for the judge or the arbitrator to check which party should be liable through a written contract. Such a written document will serve the role as legal proof.
+
+According to Article 470 of *Civil Code of the People's Republic of China*, the content of a contract shall be agreed upon by the parties and generally contains the following clauses:
 
 ![](https://ucarecdn.com/f7af49ab-4a3b-45eb-bf7b-d69905b8e8f8/)
 
-Based on the Article 470 of Civil Code of the People's Republic of China, we would like to further address the details on how to prepare an enforceable written contract.  
+Based on the Article 470 of *Civil Code of the People's Republic of China*, we would like to further address the details on how to prepare an enforceable written contract.  
 
 Firstly, if both parties are about to enter into any type of contract, it is important to include point 1) to 6) listed above to specify the main agreement by both parties.
 
@@ -52,11 +53,11 @@ Thirdly, it should be clearly stated the detailed amount of liquidated damages o
 
 Fourthly, it is advisable to choose mainland China as the jurisdiction for written contracts, with Chinese law as the applicable law. This is because the enforcement of foreign judgement in China can be time-consuming and difficult. Moreover, if you choose the jurisdiction of mainland China, it is easier to take the measure, such as applying for property preservation, to ensure the enforcement of the award in your favor (if any).  
 
-If you need an English-speaking lawyer in China to prepare a bilingual agreement, please feel free to contact us. We have prepared a post regarding Procurement Contract as an example for your reference, please check: How to Conclude a Successful Procurement Contract with a Chinese Supplier ?  
+If you need an English-speaking lawyer in China to prepare a bilingual agreement, please feel free to contact us. We have prepared a post regarding Procurement Contract as an example for your reference, please check: How to Conclude a Successful Procurement Contract with a Chinese Supplier?  
 
 **II. When a dispute arises, the first thing you should do**
 
-When disputes arise, many people often go to argue with the counter party at the beginning. However, this might make the other party aware of the dispute and refuse to provide the information in your favor. Therefore, before your contact with other party, you should check if you have sufficient evidence to prove that the other side is at fault.
+When disputes arise, many people often go to argue with the counter party at the beginning. However, this might make the other party aware of the dispute and refuse to provide the information in your favor. Therefore, before your contact with the other party, you should check if you have sufficient evidence to prove that the other side is at fault.
 
 If you notice that evidences are not sufficient for your claims, it is necessary and easier to collect more evidences, such as confirming the vague information by WeChat or email, before tension may arise between both parties. It is never too late to require the other party to solve the problem after you have sufficient evidences. Please kindly note that there is usually a big gap between the client and the court regarding the understanding of sufficient evidences. If you are facing with a potential dispute with a large amount, it is advisable to consult a lawyer in China for legal advices before you approach to the other party on the solution of potential dispute. 
 
@@ -66,7 +67,7 @@ A lawyer's letter, also known as a letter of demand (“LOD”), is a profession
 
 Since the litigation procedure can be costly and time consuming, it might be a good option to send a lawyer’s letter to the other party, especially for the deal with a small amount of money. Please however noted that the drawback of lawyer’s letter is the recipient might be aware of the upcoming claim. Therefore, you might consider whether to send the lawyer’s letter depending on the circumstances of your case.   
 
-We have prepared a post regarding the details of lawyer’s letter, please check: Lawyer's Letter: Resolving Your Dispute in China . 
+We have prepared a post regarding the details of lawyer’s letter, please check: Lawyer's Letter: Resolving Your Dispute in China. 
 
 **IV. Litigation** 
 
@@ -78,7 +79,7 @@ One general feature of the Chinese system is the “four levels” court system.
 
 The graphic above illustrates the general structure of the Chinese court system. Please kindly note that the jurisdiction can be complex in the specific case and be changed from time to time due to the notice issue by the related High People’s Court or Supreme People’s Court. 
 
-Another general feature of the Chinese system is the “two instances” trial system. This means that a civil case should be finally decided after two trails. Please noted that the second instance (i.e. the appeal) is not required if both parties are satisfied with the judgement of first instance. However, there is also available the “System for Trial Supervision”. This provides a further level of “appeal” of an effective judgment. Such trial supervision does not stop the enforcement of the judgment under reexamination. It represents a remedy to the system of two instance being final. 
+Another general feature of the Chinese system is the “two instances” trial system. This means that a civil case should be finally decided after two trails. Please note that the second instance (i.e. the appeal) is not required if both parties are satisfied with the judgement of first instance. However, there is also available the “System for Trial Supervision” which represents a remedy to the system of two instance being final. This provides a further level of “appeal” of an effective judgment. Such trial supervision does not stop the enforcement of the original effective judgment.
 
 If you have the information of the other party’s property (e.g. bank account, the address of the real estate), you can apply to the court for property preservation before or after the case is filed. The latter one is easier to be accepted by the court. In order to apply for property preservation, you will be required to provide certain guarantee of such measure (e.g. security deposit, guarantee letter issued by guarantee companies). 
 
