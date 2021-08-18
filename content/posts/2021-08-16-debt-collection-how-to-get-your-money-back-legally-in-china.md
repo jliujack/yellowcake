@@ -8,13 +8,13 @@ excerpt: When doing business in China, you may have the need to collect debt in
   China. This article provides a general guideline on how to collect debt in
   China.
 ---
-When doing business with a Chinese counter party, you may encounter the following situations:
+When doing business with a Chinese counterparty, you may encounter the following situations:
 
 *\- You have shipped goods to your Chinese purchaser, however, your Chinese purchaser refused to pay the final payment.*
 
 *\- You have placed an order with your Chinese supplier, however, your Chinese supplier refused to deliver the goods after the receipt of the first payment. Under such situation, you just want to get the first payment back from your Chinese supplier.*
 
-As you can see, debt collection is common in the international trade. Debt collection generally refers to collecting the payment from the counter party according to the laws and/or agreements. You might be worried about being outside of China, how you can collect the money owed to you in China. Well, we would like to briefly address your concerns in this article.
+As you can see, debt collection is common in the international trade. Debt collection generally refers to collecting the payment from the other side according to the laws and/or agreements. You might be worried about being outside of China, how you can collect the money owed to you in China. Well, we would like to briefly address your concerns in this article.
 
 **I. Prevention**
 
@@ -22,7 +22,7 @@ Before we start to introduce ways to collect debt from China, we would like to i
 
 **1.Due diligence on your Chinese partner before the deal** 
 
-Before doing business in China, it is important to check the registered information and qualification of the counter party. You cannot judge your potential partners only by their introductions, website, business card, even this potential partner might also be introduced by your broker.
+Before doing business in China, it is important to check the registered information and qualification of the counterparty. You cannot judge your potential partners only by their introductions, website, business card, even this potential partner might also be introduced by your broker.
 
 In order to confirm whether or not you are dealing with a reliable partner, you need to require your Chinese partner to provide you with the scanned copy of its business license or its company name in Chinese. You can check the information of the company through the government database “National Enterprise Credit Information Publicity System” (国家企业信用信息公示系统). There are also a lot of APPs, such as Qichacha (企查查), Qixinbao (启信宝), through which you can investigate the corporate credit information.
 
@@ -30,7 +30,7 @@ In order to confirm whether or not you are dealing with a reliable partner, you 
 
 If you have Chinese friends, you can ask your friend to help you check the information of the Chinese partner. Or you may engage a **[lawyer in China](https://www.legalandwise.com/)** to conduct the due diligence for you, especially for deals with a large amount of money. This will guarantee that you are dealing with a legitimate company instead of a scammer. In addition, without the correct registered information of the Chinese company name, it will increase the difficulty to file lawsuit against your Chinese partner to recover the money (if necessary).
 
-**2.Signing a written contract with your Chinese counter party**
+**2.Signing a written contract with your Chinese counterparty**
 
 Compared with sending a few emails or several WhatsApp messages, signing a written contract includes the following advantages:
 
@@ -55,7 +55,7 @@ If you need an English-speaking lawyer in China to prepare a bilingual agreement
 
 **II. When a dispute arises, the first thing you should do**
 
-When disputes arise, many people often go to argue with the counter party at the beginning. However, this might make the other party aware of the dispute and refuse to provide the information in your favor. Therefore, before your contact with the other party, you should check if you have sufficient evidence to prove that the other side is at fault.
+When disputes arise, many people often go to argue with the other side at the beginning. However, this might make the other party aware of the dispute and refuse to provide the information in your favor. Therefore, before your contact with the other party, you should check if you have sufficient evidence to prove that the other side is at fault.
 
 If you notice that evidences are not sufficient for your claims, it is necessary and easier to collect more evidences, such as confirming the vague information by WeChat or email, before tension may arise between both parties. It is never too late to require the other party to solve the problem after you have sufficient evidences. Please kindly note that there is usually a big gap between the client and the court regarding the understanding of sufficient evidences. If you are facing with a potential dispute with a large amount, it is advisable to consult a lawyer in China for legal advices before you approach to the other party on the solution of potential dispute. 
 
