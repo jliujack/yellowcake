@@ -51,7 +51,7 @@ Thirdly, it should be clearly stated the detailed amount of liquidated damages o
 
 Fourthly, it is advisable to choose mainland China as the jurisdiction for written contracts, with Chinese law as the applicable law. This is because the enforcement of foreign judgement in China can be time-consuming and difficult. Moreover, if you choose the jurisdiction of mainland China, it is easier to take the measure, such as applying for property preservation, to ensure the enforcement of the award in your favor (if any).  
 
-If you need an English-speaking lawyer in China to prepare a bilingual agreement, please feel free to contact us. We have prepared a post regarding Procurement Contract as an example for your reference, please check: How to Conclude a Successful Procurement Contract with a Chinese Supplier?  
+If you need an English-speaking lawyer in China to prepare a bilingual agreement, please feel free to contact us. We have prepared a post regarding Procurement Contract as an example for your reference, please check: [How to Conclude a Successful Procurement Contract with a Chinese Supplier? ](https://www.legalandwise.com/posts/how-to-conclude-a-successful-procurement-contract-with-a-chinese-supplier%EF%BC%9F/) 
 
 **II. When a dispute arises, the first thing you should do**
 
@@ -65,7 +65,7 @@ A lawyer's letter, also known as a letter of demand (“LOD”), is a profession
 
 Since the litigation procedure can be costly and time consuming, it might be a good option to send a lawyer’s letter to the other party, especially for the deal with a small amount of money. Please however noted that the drawback of lawyer’s letter is the recipient might be aware of the upcoming claim. Therefore, you might consider whether to send the lawyer’s letter depending on the circumstances of your case.   
 
-We have prepared a post regarding the details of lawyer’s letter, please check: Lawyer's Letter: Resolving Your Dispute in China. 
+We have prepared a post regarding the details of lawyer’s letter, please check: [Lawyer's Letter: Resolving Your Dispute in China. ](https://www.legalandwise.com/posts/lawyers-letter-resolving-your-dispute-in-china/)
 
 **IV. Litigation** 
 
