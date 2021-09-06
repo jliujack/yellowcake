@@ -24,9 +24,17 @@ According to the law, the period for applying for enforcement is within two year
 **III. What kind of documents need to be submitted for the application for the enforcement?**
 
 1. Application for Enforcement
+
+
    The Application for Enforcement should state the basic information of the applicant and the party subject to enforcement, the basis of enforcement, the subject matter of enforcement, the property clues available for enforcement, etc.
+
+
 2. Identity materials of the applicant and the party subject to enforcement
+
+
 3. Basis of enforcement 
+
+
    For example, the copy of an effective judgement should be submitted and the original one should be provided for review. 
 
 **IV. Does the applicant need to pay the enforcement application fee to the court?**
