@@ -4,10 +4,16 @@ title: "Debt Collection: How to Enforce an Effective Judgement in China "
 status: Published
 date: 2021-09-06
 featuredImage: https://ucarecdn.com/3d1d0b71-5cdc-4e11-9e57-3841535a1116/
-excerpt: "Some foreign clients may encounter the need to apply for the
+excerpt: Some foreign clients may encounter the need to apply for the
   enforcement of effective judgement in order to collect debts where the other
-  side refuses to perform the judgement. This article briefly addresses the
-  related practical tips on enforcement of judgement in China.  "
+  side refuses to perform the judgement. This article introduces steps to apply
+  for the enforcement, which will help foreign client get a favorable outcome in
+  enforcement cases.
+meta:
+  title: Debt Collection in China; Collect Debt in China; Enforcement of Judgement
+  canonicalLink: https://www.legalandwise.com/posts/debt-collection-how-to-enforce-an-effective-judgement-in-china/
+  description: "This article briefly addresses the related practical tips on
+    enforcement of judgement in China.  "
 ---
 When doing business in China, some foreign clients may encounter the need to collect debts through litigation. However, when a foreign client got a valid and favorable judgment, the other side may be unwilling to perform the judgement. This is one of the common stories that occurs when foreign clients collect debts through litigation.
 
@@ -25,15 +31,9 @@ According to the law, the period for applying for enforcement is within two year
 
 1. Application for Enforcement
 
-
    The Application for Enforcement should state the basic information of the applicant and the party subject to enforcement, the basis of enforcement, the subject matter of enforcement, the property clues available for enforcement, etc.
-
-
 2. Identity materials of the applicant and the party subject to enforcement
-
-
 3. Basis of enforcement 
-
 
    For example, the copy of an effective judgement should be submitted and the original one should be provided for review. 
 
@@ -89,7 +89,7 @@ During the enforcement procedure, if the party subject to enforcement has the ca
 
 Such information will be listed online, which is warning the debtor’s business partners, customers, and the general public that the debtor had no business integrity.
 
-![](https://ucarecdn.com/9b9149fc-01aa-4720-80f6-f09607c46f02/)
+![The party subject to enforcement will be included in the blacklist if such party has the capacity but refuses to perform the judgement.](https://ucarecdn.com/9b9149fc-01aa-4720-80f6-f09607c46f02/ "Online Blacklist of Parties Subject to Enforcement")
 
 (The enforcement information of party subject to enforcement can be checked by this website: http://zxgk.court.gov.cn/)
 
