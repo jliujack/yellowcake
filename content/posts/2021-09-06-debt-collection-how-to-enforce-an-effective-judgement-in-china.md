@@ -45,7 +45,7 @@ Generally, applicants are not required to pay the enforcement application fee in
 
 **Step 1: Issue an enforcement notice to the party subject to enforcement**
 
-After receiving an application for enforcement, the court shall issue an enforcement notice to the party subject to enforcement and order him/her to perform within the designated period, if the party subject to enforcement does not fulfill the obligations determined by the judgement.
+After receiving an application for enforcement, the court shall issue an enforcement notice to the party subject to enforcement and order him/her to perform within the designated period where the party subject to enforcement does not fulfill the obligations determined by the judgement.
 
 **Step 2: Start property investigation**
 
@@ -63,7 +63,7 @@ The court generally takes the following enforcement measures, including but not 
 
 **Step 4：Restrict extravagant consumption** 
 
-If the party subject to enforcement fails to fulfill the payment obligations as specified in the enforcement notice, the court may take measures to restrict the consumption of such party and the relevant consumption not necessary in daily life or business operation thereof. Such measure is usually applied by the applicant. 
+If the party subject to enforcement fails to fulfill the payment obligations as specified in the enforcement notice, the court may take measures to restrict the extravagant consumption of such party and the relevant consumption not necessary in daily life or business operation thereof. Such measure is usually applied by the applicant. 
 
 Related laws and regulations:
 
