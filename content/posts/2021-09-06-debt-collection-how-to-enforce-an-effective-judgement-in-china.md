@@ -69,7 +69,7 @@ Related laws and regulations:
 
 *Several Provisions of the Supreme People's Court on Restricting Extravagant Consumption and the Relevant Consumption of Persons Subject to Enforcement (Revised in 2015)*
 
-**Article 3** After the consumption restriction measures have been taken against a party subject to enforcement who is a natural person, the party subject to enforcement shall not have the following extravagant consumption acts and the relevant consumption acts not necessary in daily life or work:
+**Article 3** After the consumption restriction measures have been taken against the party subject to enforcement who is a natural person, the party subject to enforcement shall not have the following extravagant consumption acts and the relevant consumption acts not necessary in daily life or work:
 
 1. choosing to take a plane, a soft sleeper in a train, or a berth of the second class or above on a ship, for traveling;
 2. having extravagant consumption at multi-star-rated hotels, restaurants, night clubs, golf courses, or other places;
@@ -81,7 +81,7 @@ Related laws and regulations:
 8. spending a large sum in purchasing insurance wealth management products; and
 9. taking any seat in a G-series China railway high-speed train or a seat of the first class or above in any other China railway high-speed train, and other consumption acts not necessary in daily life or work.
 
-If the party subject to enforcement is a company, after being restricted from extravagant consumption, this company and its legal representative, main person in charge, and persons directly responsible for affecting the fulfillment of debts are prohibited from committing the acts stipulated in the preceding paragraph of this article. If natural persons under this paragraph intend to commit any act prescribed in the preceding paragraph by using their own properties for private purposes, he can file an application with the enforcement court, which shall grant approval if the case is affirmed upon examination.
+If the party subject to enforcement is a company, after being restricted from extravagant consumption, this company and its legal representative, main person in charge, and persons directly responsible for affecting the fulfillment of debts are prohibited from committing the acts stipulated in the preceding paragraph of this article. If natural persons under this paragraph intend to commit any act prescribed in the preceding paragraph by using their own properties for private purposes, they can file an application with the enforcement court which shall grant approval if the case is affirmed upon examination.
 
 **Step 5: Include in the blacklist** 
 
