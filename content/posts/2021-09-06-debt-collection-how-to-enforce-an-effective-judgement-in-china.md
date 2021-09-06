@@ -69,10 +69,6 @@ Related laws and regulations:
 
 *Several Provisions of the Supreme People's Court on Restricting Extravagant Consumption and the Relevant Consumption of Persons Subject to Enforcement (Revised in 2015)*
 
-**Article 1** The people’s court may restrict the extravagant consumption and the relevant consumption acts not necessary in daily life or work of the party subject to enforcement if such party fails to fulfill the payment obligations determined by the effective legal documents within the period specified in the enforcement notice.
-
-The people’s court shall take measures to restrict the consumption of the party subject to enforcement who is included in the list of dishonest parties subject to enforcement.
-
 **Article 3** After the consumption restriction measures have been taken against a party subject to enforcement who is a natural person, the party subject to enforcement shall not have the following extravagant consumption acts and the relevant consumption acts not necessary in daily life or work:
 
 1. choosing to take a plane, a soft sleeper in a train, or a berth of the second class or above on a ship, for traveling;
