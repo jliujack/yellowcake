@@ -15,7 +15,7 @@ Based on our rich experience in forcing debtors to perform judgments through enf
 
 **I. What is enforcement of an effective judgement in China?**
 
-This means that the court has ordered the defendant to repay the plaintiff's money or pay damages, but if the defendant refused to perform, the plaintiff can apply to the court to execute relevant properties of the defendant. Such plaintiff is the applicant for the enforcement and the other side is the party subject to enforcement.
+This means that the court has ordered the defendant to repay the plaintiff's money or pay damages, the plaintiff can apply to the court to execute relevant properties of the defendant where the defendant refused to perform. Such plaintiff is the applicant for the enforcement and the other side is the party subject to enforcement.
 
 **II. When should the applicant apply for enforcement?**
 
