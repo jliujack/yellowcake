@@ -85,7 +85,7 @@ If the party subject to enforcement is a company, after being restricted from ex
 
 **Step 5: Include in the blacklist** 
 
-During the enforcement procedure, if the party subject to enforcement can perform but refuses to fulfill the obligations determined by the effective judgement (e.g. the debtor has money, but refuses to pay the creditor the amount due as stated in the effective judgment.), the court can include the party subject to enforcement into the dishonest list (also known as a kind of blacklist). 
+During the enforcement procedure, if the party subject to enforcement has the capacity to perform but refuses to fulfill the obligations determined by the effective judgement (e.g. the debtor has money, but refuses to pay the creditor the amount due as stated in the effective judgment.), the court can include the party subject to enforcement into the dishonest list (also known as a kind of blacklist). 
 
 Such information will be listed online, which is warning the debtor’s business partners, customers, and the general public that the debtor had no business integrity.
 
@@ -101,7 +101,7 @@ Related laws and regulations:
 
 **Article 1** The people’s courts shall include parties subject to enforcement in the list of dishonest parties subject to enforcement, and impose credit penalties on them according to the law, where parties subject to enforcement fail to perform the obligations determined by the effective legal documents, and commit any of the following violations:
 
-1. refuse to fulfill the obligations determined by the effective legal documents while they are be able to fulfill;
+1. have capacity to fulfill the obligations determined by the effective legal documents but refuse to do so;
 2. obstruct or reject enforcement by fabricating evidence, perpetrating violence or making intimidation, etc.;
 3. dodge enforcement by false litigation, bogus arbitration or hiding and transferring property, etc.;
 4. violate the property reporting system;
@@ -110,6 +110,8 @@ Related laws and regulations:
 
 Regarding the serious situation, the court may adopt the measure of judicial custody against the party subject to enforcement, or even the criminal punishments for resistance to enforcement actions. Please however note that the courts rarely take these kinds of serious measures in practices.
 
-We hope that by listing some of the common measures foreign clients may apply during enforcement can help achieve the purpose to collect debts in China. Please kindly note that this article addresses the situation that the judgment is made in mainland China. Regarding the enforcement of foreign judgement, the situation could be complicated and will be addressed in another article.
+We hope that by listing some of the common measures foreign clients may apply during enforcement can help achieve the purpose to collect debts in China. Since the coronavirus keeps raging on, it might be difficult for foreigner clients to enter into China. It is advisable to engage a lawyer to assist in enforcing the judgment without the need for the client to come to China in person to apply for enforcement.
+
+Please kindly note that this article addresses the situation that the judgment is made in mainland China. Regarding the enforcement of foreign judgement, the situation could be complicated and will be addressed in another article.
 
 *If you need any assistance with the debt collection through enforcement procedure, please feel free to contact us via administrator@legalandwise.com.*
