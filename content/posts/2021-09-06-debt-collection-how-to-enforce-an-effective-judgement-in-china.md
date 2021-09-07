@@ -12,8 +12,9 @@ excerpt: Some foreign clients may encounter the need to apply for the
 meta:
   title: Debt Collection in China; Collect Debt in China; Enforcement of Judgement
   canonicalLink: https://www.legalandwise.com/posts/debt-collection-how-to-enforce-an-effective-judgement-in-china/
-  description: "This article briefly addresses the related practical tips on
-    enforcement of judgement in China.  "
+  description: "This article illustrates on how judgments and arbitration
+    awards  are enforced in China.  It also briefly addresses the related
+    practical tips on enforcement procedures in China.  "
 ---
 When doing business in China, some foreign clients may encounter the need to collect debts through litigation. However, when a foreign client got a valid and favorable judgment, the other side may be unwilling to perform the judgement. This is one of the common stories that occurs when foreign clients collect debts through litigation.
 
@@ -31,8 +32,10 @@ According to the law, the period for applying for enforcement is within two year
 
 1. Application for Enforcement
 
-   The Application for Enforcement should state the basic information of the applicant and the party subject to enforcement, the basis of enforcement, the subject matter of enforcement, the property clues available for enforcement, etc.
+   The Application for Enforcement should state the basic information of the applicant and the party subject to enforcement, the basis of enforcement, the subject matter of enforcement, the property information available for enforcement, etc.
 2. Identity materials of the applicant and the party subject to enforcement
+
+
 3. Basis of enforcement 
 
    For example, the copy of an effective judgement should be submitted and the original one should be provided for review. 
@@ -85,7 +88,7 @@ If the party subject to enforcement is a company, after being restricted from ex
 
 **Step 5: Include in the blacklist** 
 
-During the enforcement procedure, if the party subject to enforcement has the capacity to perform but refuses to fulfill the obligations determined by the effective judgement (e.g. the debtor has money, but refuses to pay the creditor the amount due as stated in the effective judgment.), the court can include the party subject to enforcement into the dishonest list (also known as a kind of blacklist). 
+During the enforcement procedure, if the party subject to enforcement has capacity to perform but refuses to fulfill the obligations determined by the effective judgement (e.g. the debtor has money, but refuses to pay the creditor the amount due as stated in the effective judgment.), the court can include the party subject to enforcement in the dishonest list (also known as a kind of blacklist). 
 
 Such information will be listed online, which is warning the debtor’s business partners, customers, and the general public that the debtor had no business integrity.
 
@@ -108,9 +111,9 @@ Related laws and regulations:
 5. violate the consumption restriction order; or
 6. refuse to fulfill or implement the settlement agreement without justified reasons.
 
-Regarding the serious situation, the court may adopt the measure of judicial custody against the party subject to enforcement, or even the criminal punishments for resistance to enforcement actions. Please however note that the courts rarely take these kinds of serious measures in practices.
+Regarding the serious situation, the court may adopt the measure of judicial custody against the party subject to enforcement, or even the criminal punishments for resistance to enforcement actions. Please however note that courts rarely take these kinds of serious measures in practices.
 
-We hope that by listing some of the common measures foreign clients may apply during enforcement can help achieve the purpose to collect debts in China. Since the coronavirus keeps raging on, it might be difficult for foreigner clients to enter into China. It is advisable to engage a lawyer to assist in enforcing the judgment without the need for the client to come to China in person to apply for enforcement.
+We hope that by listing some of the common measures foreign clients may apply during the enforcement procedure can help achieve the purpose to collect debts in China. Since the coronavirus keeps raging on, it might be difficult for foreigner clients to enter into China. It is advisable to engage a lawyer to assist in enforcing the judgment without the need for the client to come to China in person to apply for enforcement.
 
 Please kindly note that this article addresses the situation that the judgment is made in mainland China. Regarding the enforcement of foreign judgement, the situation could be complicated and will be addressed in another article.
 
